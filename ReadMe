@@ -1,6 +1,6 @@
-echo "# hello-world" >> README.md
+echo "# hello-world" >> README-edit.md
 git init
-git add README.md
+git add README-edit.md
 git commit -m "first commit"
 git remote add origin https://github.com/Sboom/hello-world.git
 git push -u origin master
